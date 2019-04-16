@@ -1,0 +1,11 @@
+./src/kalk/model/factory/ColorFactory.java
+./src/kalk/model/IllegalColorException.java
+./src/kalk/model/color/CYMK.java
+./src/kalk/model/color/CIExyz.java
+./src/kalk/model/color/YUV.java
+./src/kalk/model/color/HSL.java
+./src/kalk/model/color/Color.java
+./src/kalk/model/color/RGB.java
+./src/kalk/model/ColorModel.java
+./src/kalk/model/Model.java
+./src/kalk/Use.java
